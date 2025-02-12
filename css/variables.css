@@ -1,8 +1,7 @@
 :root{
-    --color-1:#eee;
-    --lorem-item: #f3f4f4;
-    --lorem-container: #dadce0;
-    --lorem-item-box: #ccdbfe;
+    --lorem-item: transparent;
+    --lorem-container: transparent;
+    --lorem-item-box: transparent;
 
     --color-1:#000000;
     --color-2:#FFFFFF;
